@@ -2,5 +2,6 @@
 /config/keys.js
 
 ### Vagrant ###
+.vagrant/machines/default/virtualbox
 .vagrant/
 *.box
