@@ -1,0 +1,2 @@
+use devconnect
+db.createUser({user: "bryan", pwd: "xxxxxxxxx", roles:["readWrite", "dbAdmin"]})
