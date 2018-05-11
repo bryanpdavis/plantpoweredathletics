@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"nfs":{"mount_options":["dmode=777","fmode=666"]},"guestpath":"/var/www/html","hostpath":"G:/Projects/PlantPoweredAthletics","disabled":false,"__vagrantfile":true}}}
