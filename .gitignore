@@ -1,3 +1,6 @@
 /node_modules
 /config/keys.js
-.vagrant/machines/default/virtualbox/private_key
+
+### Vagrant ###
+.vagrant/
+*.box
