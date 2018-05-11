@@ -3,5 +3,5 @@
 
 ### Vagrant ###
 .vagrant/machines/default/virtualbox
-.vagrant/
+.vagrant
 *.box
